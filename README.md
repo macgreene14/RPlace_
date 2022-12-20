@@ -2,6 +2,8 @@
 
 # ЯPlace
 
+<img width="1412" alt="image" src="https://user-images.githubusercontent.com/33014789/208559822-9bf65a07-a275-441a-8a4e-1e76e4b6db9b.png">
+
 ## Description
 
 This is a full-stack, single-page React application making use of MongoDB, Mongoose, Material UI, Node, Express, Apollo, GraphQL, and JWT. This is a social media app meant to hearken back to the olden days of MySpace. The app is deployed to Heroku or it can be cloned and run locally.
